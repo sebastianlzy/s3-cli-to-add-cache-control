@@ -13,7 +13,7 @@ Solution: To modify/add cache-control parameters to existing s3 assets.
 ### Run
 
 ```cli
-	node index.js -m 1800,public -b shopily -f uploads/banners/356/image.png
+node index.js -m 1800,public -b shopily -f uploads/banners/356/image.png
 
 ```
 
